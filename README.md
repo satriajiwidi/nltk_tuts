@@ -1,2 +1,1 @@
-# nltk_tuts
-# nltk_tuts
+# nltk_tuts tutorial of nltk
