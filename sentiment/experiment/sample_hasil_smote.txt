@@ -1,0 +1,418 @@
+
+C:\Users\ASUS\Desktop\codes\python_codes\ml\sentiment\experiment>python smote_try.py
+n_kelas_pertama 12
+n_kelas_kedua 4
+N 2
+n_attrs 8
+neighbors:
+ [[1 2 3]
+ [0 2 3]
+ [3 1 0]
+ [2 1 0]]
+
+nn_array [1 2 3]
+_N 2
+         nn_indices_chosen_N 0
+         nn_indices [1, 2]
+         nn_index 0
+                 # distance 0
+                 gap 0.9560342718892494
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23796462709189137
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance -1
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 1, gap*distance: -0.793340083761663
+                 X_generated[n_generated][attr] 0.206659916238
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+                 # distance 0
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+                 # distance 0
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+         nn_indices_chosen_N 2
+         nn_indices [1]
+         nn_index 2
+                 # distance 0
+                 gap 0.9560342718892494
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23796462709189137
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance -1
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 1, gap*distance: -0.793340083761663
+                 X_generated[n_generated][attr] 0.206659916238
+
+                 # distance -1
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 1, gap*distance: -0.32383276483316237
+                 X_generated[n_generated][attr] 0.676167235167
+
+                 # distance -1
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 1, gap*distance: -0.2267058593810488
+                 X_generated[n_generated][attr] 0.773294140619
+
+                 # distance 0
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+
+nn_array [0 2 3]
+_N 2
+         nn_indices_chosen_N 1
+         nn_indices [0, 2]
+         nn_index 1
+                 # distance 0
+                 gap 0.23796462709189137
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance -1
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 1, gap*distance: -0.2267058593810488
+                 X_generated[n_generated][attr] 0.773294140619
+
+                 # distance 0
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+                 # distance 0
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+         nn_indices_chosen_N 2
+         nn_indices [0]
+         nn_index 2
+                 # distance 0
+                 gap 0.23796462709189137
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance -1
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 1, gap*distance: -0.2267058593810488
+                 X_generated[n_generated][attr] 0.773294140619
+
+                 # distance -1
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 1, gap*distance: -0.46300735781502145
+                 X_generated[n_generated][attr] 0.536992642185
+
+                 # distance 0
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+
+nn_array [3 1 0]
+_N 2
+         nn_indices_chosen_N 1
+         nn_indices [0, 2]
+         nn_index 1
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 1
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 0, gap*distance: 0.46300735781502145
+                 X_generated[n_generated][attr] 0.463007357815
+
+                 # distance 0
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+                 # distance 0
+                 gap 0.4523795535098186
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+         nn_indices_chosen_N 2
+         nn_indices [0]
+         nn_index 2
+                 # distance 0
+                 gap 0.23604808973743452
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 1
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 0, gap*distance: 0.2267058593810488
+                 X_generated[n_generated][attr] 0.226705859381
+
+                 # distance 1
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 0, gap*distance: 0.46300735781502145
+                 X_generated[n_generated][attr] 0.463007357815
+
+                 # distance 0
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+                 # distance 0
+                 gap 0.4523795535098186
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+
+nn_array [2 1 0]
+_N 2
+         nn_indices_chosen_N 2
+         nn_indices [0, 1]
+         nn_index 2
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 1
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 0, gap*distance: 0.46300735781502145
+                 X_generated[n_generated][attr] 0.463007357815
+
+                 # distance 1
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 0, gap*distance: 0.5714025946899135
+                 X_generated[n_generated][attr] 0.57140259469
+
+                 # distance 1
+                 gap 0.4523795535098186
+                 X_minor[i][attr]: 0, gap*distance: 0.4523795535098186
+                 X_generated[n_generated][attr] 0.45237955351
+
+                 # distance 0
+                 gap 0.4745706786885481
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+         nn_indices_chosen_N 1
+         nn_indices [0]
+         nn_index 1
+                 # distance 0
+                 gap 0.6229016948897019
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.793340083761663
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.32383276483316237
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.2267058593810488
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 0
+                 gap 0.46300735781502145
+                 X_minor[i][attr]: 0, gap*distance: 0.0
+                 X_generated[n_generated][attr] 0.0
+
+                 # distance 1
+                 gap 0.5714025946899135
+                 X_minor[i][attr]: 0, gap*distance: 0.5714025946899135
+                 X_generated[n_generated][attr] 0.57140259469
+
+                 # distance 1
+                 gap 0.4523795535098186
+                 X_minor[i][attr]: 0, gap*distance: 0.4523795535098186
+                 X_generated[n_generated][attr] 0.45237955351
+
+                 # distance 0
+                 gap 0.4745706786885481
+                 X_minor[i][attr]: 1, gap*distance: 0.0
+                 X_generated[n_generated][attr] 1.0
+
+
+[[ 1.          1.          1.          1.          0.          0.          0.
+   0.        ]
+ [ 0.          1.          1.          1.          0.          0.          0.
+   0.        ]
+ [ 0.          0.          1.          1.          0.          0.          0.
+   0.        ]
+ [ 0.          0.          0.          1.          0.          0.          0.
+   0.        ]
+ [ 1.          0.          0.          0.          0.          0.          0.
+   0.        ]
+ [ 1.          1.          0.          0.          0.          0.          0.
+   0.        ]
+ [ 1.          1.          1.          0.          0.          0.          0.
+   0.        ]
+ [ 1.          0.          1.          1.          0.          0.          0.
+   0.        ]
+ [ 1.          0.          1.          0.          0.          0.          0.
+   0.        ]
+ [ 1.          1.          0.          1.          0.          0.          0.
+   0.        ]
+ [ 0.          1.          0.          1.          0.          0.          0.
+   0.        ]
+ [ 1.          0.          0.          1.          0.          0.          0.
+   0.        ]
+ [ 0.          0.          0.          0.          1.          1.          1.
+   1.        ]
+ [ 0.          0.          0.          0.          0.          1.          1.
+   1.        ]
+ [ 0.          0.          0.          0.          0.          0.          1.
+   1.        ]
+ [ 0.          0.          0.          0.          0.          0.          0.
+   1.        ]
+ [ 0.          0.          0.          0.          0.20665992  1.          1.
+   1.        ]
+ [ 0.          0.          0.          0.          0.20665992  0.67616724
+   0.77329414  1.        ]
+ [ 0.          0.          0.          0.          0.          0.77329414
+   1.          1.        ]
+ [ 0.          0.          0.          0.          0.          0.77329414
+   0.53699264  1.        ]
+ [ 0.          0.          0.          0.          0.          0.46300736
+   1.          1.        ]
+ [ 0.          0.          0.          0.          0.22670586  0.46300736
+   1.          1.        ]
+ [ 0.          0.          0.          0.          0.46300736  0.57140259
+   0.45237955  1.        ]
+ [ 0.          0.          0.          0.          0.          0.57140259
+   0.45237955  1.        ]] [1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]
+
+C:\Users\ASUS\Desktop\codes\python_codes\ml\sentiment\experiment>

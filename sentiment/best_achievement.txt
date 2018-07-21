@@ -1,0 +1,45 @@
+full feature
+no sampling
+. * . * . * . * . * . * 
+acc multinb biner: 	 50.0
+acc multinb tf: 	 50.0
+acc multinb tfidf: 	 50.0
+>> acc rata2 multinb: 	(50.0)
+acc logreg biner: 	 62.0
+acc logreg tf: 	 66.0
+acc logreg tfidf: 	 50.0
+>> acc rata2 logreg: 	(59.33)
+
+with sampling
+. * . * . * . * . * . * 
+acc multinb biner: 	 76.0
+acc multinb tf: 	 73.0
+acc multinb tfidf: 	 69.5
+>> acc rata2 multinb: 	(72.83)
+acc logreg biner: 	 68.0
+acc logreg tf: 	 69.0
+acc logreg tfidf: 	 57.0
+>> acc rata2 logreg: 	(64.67)
+
+ajd feature
+no sampling
+. * . * . * . * . * . * 
+acc multinb biner: 	 50.0
+acc multinb tf: 	 50.0
+acc multinb tfidf: 	 50.0
+>> acc rata2 multinb: 	(50.0)
+acc logreg biner: 	 61.5
+acc logreg tf: 	 65.0
+acc logreg tfidf: 	 50.0
+>> acc rata2 logreg: 	(58.83)
+
+with sampling
+. * . * . * . * . * . * 
+acc multinb biner: 	 66.5
+acc multinb tf: 	 66.0
+acc multinb tfidf: 	 64.0
+>> acc rata2 multinb: 	(65.5)
+acc logreg biner: 	 72.5
+acc logreg tf: 	 74.0
+acc logreg tfidf: 	 62.0
+>> acc rata2 logreg: 	(69.5)

@@ -1,0 +1,5 @@
+# coba data imbang
+# refactor code print_result
+x check atribut masing2 classifier
+
+- lakukan k-fold, ambil objek dengan akurasi terbaik untuk validasi
